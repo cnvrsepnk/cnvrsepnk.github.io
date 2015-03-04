@@ -19,29 +19,28 @@ color:
 footer:
   copyright: Vanessa Gill || =^. .^=
   location: Location
-  social: Around the Web
-  credits: Credits
+  social: Connect With Me
+  credits: Twitter
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: http://twitter.com/cnvrsepnk
   - title: facebook
     url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+  - title: facebook
+    url: http://www.facebook.com/cnvrsepnk
+  - title: linkedin
+    url: http://www.linkedin.com/pub/vanessa-gill/13/63a/98b
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/cnvrsepnk
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Somewhere in Scenic Seattle
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Twitter feed will go here...'
 
 # Build settings
 markdown: kramdown
