@@ -36,10 +36,6 @@ h6 {
     font-weight: 700;
 }
 
-h2 {
-    color: #{{site.color.headers}};
-}
-
 hr.star-light,
 hr.star-primary {
     margin: 25px auto 30px;
@@ -169,6 +165,10 @@ header .intro-text .skills {
     outline: 0;
 }
 
+.navbar .navbar-nav li a:hover {
+    color: #{{ site.color.links }};
+}
+
 .navbar-default,
 .navbar-inverse {
     border: 0;
@@ -215,7 +215,7 @@ section.success {
     width: 100%;
     height: 100%;
     opacity: 0;
-    background: rgba(24,188,156,.9);
+    background: rgba(232,188,47,.9);
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
