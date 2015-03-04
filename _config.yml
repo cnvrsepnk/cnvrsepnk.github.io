@@ -12,6 +12,8 @@ color:
   primary: 18bc9c #80B3FF
   secondary: 505050 #FD6E8A
   secondary-dark: 222222 #A2122F
+  headers: f00
+  links: e8bc2f
 
 # Footer settings
 footer:
