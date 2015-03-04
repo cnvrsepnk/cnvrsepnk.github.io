@@ -138,6 +138,10 @@ header .intro-text .skills {
         transition: all .3s;
     }
 
+    .navbar-fixed-top .navbar-brand:hover {
+        color: #{{ site.color.links }};
+    }
+
     .navbar-fixed-top.navbar-shrink {
         padding: 10px 0;
     }
