@@ -108,6 +108,11 @@ header .intro-text .skills {
     font-weight: 300;
 }
 
+#portfolio {
+    background-image: url('../img/grey_striped.png');
+    background-repeat: repeat;
+}
+
 @media(min-width:768px) {
     header .container {
         padding-top: 200px;
@@ -204,11 +209,6 @@ section.success {
     section.first {
         padding-top: 75px;
     }
-}
-
-#portfolio {
-    background-image: url('../img/');
-    background-repeat: repeat;
 }
 
 #portfolio .portfolio-item {
