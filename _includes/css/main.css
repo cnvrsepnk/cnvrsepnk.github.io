@@ -285,7 +285,7 @@ section.success {
     position: relative;
     margin-bottom: 0;
     padding-bottom: .5em;
-    border-bottom: 1px solid #eee;
+    border-bottom: 2px solid #{{ site.color.secondary }};
 }
 
 .floating-label-form-group input,
@@ -321,7 +321,7 @@ section.success {
 
 .floating-label-form-group::not(:first-child) {
     padding-left: 14px;
-    border-left: 1px solid #eee;
+    border-left: 2px solid #{{ site.color.secondary }};;
 }
 
 .floating-label-form-group-with-value label {
@@ -334,7 +334,7 @@ section.success {
 }
 
 form .row:first-child .floating-label-form-group {
-    border-top: 1px solid #eee;
+    border-top: 2px solid #{{ site.color.secondary }};;
 }
 
 footer {
