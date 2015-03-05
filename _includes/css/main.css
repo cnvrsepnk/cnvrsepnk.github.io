@@ -225,12 +225,12 @@ section.success {
     background-position: 90% center;
 }
 
-/*#about {
-    background-image: url('img/cherry-blossoms.png');
+#about {
+    background-image: url('img/blossoms-bird.png');
     background-repeat: no-repeat;
     background-size: auto auto;
     background-position: -50px -70px;
-}*/
+}
 
 #portfolio .portfolio-item {
     right: 0;
