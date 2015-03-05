@@ -138,7 +138,7 @@ header .intro-text .skills {
         transition: all .3s;
     }
 
-    .navbar-fixed-top .navbar-brand:hover {
+    .navbar-fixed-top .navbar-brand:hover, .navbar-fixed-top .navbar-brand:active {
         color: #{{ site.color.links }};
     }
 
@@ -169,7 +169,7 @@ header .intro-text .skills {
     outline: 0;
 }
 
-.navbar .navbar-nav li a:hover {
+.navbar .navbar-nav li a:hover, .navbar .navbar-nav li a:active {
     color: #{{ site.color.links }};
 }
 
@@ -381,7 +381,7 @@ footer .footer-below {
     line-height: 45px;
 }
 
-.btn-social:hover {
+.btn-social:hover, .btn-social:active {
     color: #{{site.color.links}};
 }
 
