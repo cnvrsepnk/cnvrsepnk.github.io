@@ -224,8 +224,8 @@ section.success {
 #about {
     background-image: url('img/cherry.png');
     background-repeat: no-repeat;
-    background-size: auto 100%;
-    background-position: 10% top;
+    background-size: 15% auto;
+    background-position: 10% 15%;
 }
 
 #portfolio .portfolio-item {
