@@ -138,8 +138,12 @@ header .intro-text .skills {
         transition: all .3s;
     }
 
-    .navbar-fixed-top .navbar-brand:hover, .navbar-fixed-top .navbar-brand:focus {
+    .navbar-fixed-top .navbar-brand:hover {
         color: #{{ site.color.links }};
+    }
+
+    .navbar-fixed-top .navbar-brand:focus {
+        color: #fff;
     }
 
     .navbar-fixed-top.navbar-shrink {
@@ -169,8 +173,12 @@ header .intro-text .skills {
     outline: 0;
 }
 
-.navbar .navbar-nav li a:hover, .navbar .navbar-nav li a:focus {
+.navbar .navbar-nav li a:hover {
     color: #{{ site.color.links }};
+}
+
+.navbar .navbar-nav li a:focus {
+    color: #fff;
 }
 
 .navbar .navbar-nav.active a {
