@@ -222,10 +222,10 @@ section.success {
 }
 
 #about {
-    background-image: url('img/cherry.png');
+    background-image: url('img/cherry-blossoms.png');
     background-repeat: no-repeat;
-    background-size: 15% auto;
-    background-position: 10% 15%;
+    background-size: 100% auto;
+    background-position: left center;
 }
 
 #portfolio .portfolio-item {
