@@ -62,16 +62,16 @@ hr.star-light {
 }
 
 hr.star-light:after {
-    color: #fff;
+    color: #{{ site.color.links }};
     background-color: #{{ site.color.primary }};
 }
 
 hr.star-primary {
-    border-color: #{{ site.color.secondary }};
+    border-color: #{{ site.color.links }};
 }
 
 hr.star-primary:after {
-    color: #{{ site.color.secondary }};
+    color: #{{ site.color.links }};
     background-color: #fff;
 }
 
@@ -221,12 +221,12 @@ section.success {
     background-position: 90% center;
 }
 
-#about {
+/*#about {
     background-image: url('img/cherry-blossoms.png');
     background-repeat: no-repeat;
     background-size: auto auto;
     background-position: -50px -70px;
-}
+}*/
 
 #portfolio .portfolio-item {
     right: 0;
