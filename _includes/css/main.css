@@ -184,6 +184,9 @@ header .intro-text .skills {
 .navbar-default .navbar-nav>.active>a,.navbar-default .navbar-nav>.active>a:hover,.navbar-default .navbar-nav>.active>a:focus{
     color:#ffffff;
     background-color:#{{site.color.links}};
+    border-radius: 8px;
+    -moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
 }
 
 .navbar-default,
