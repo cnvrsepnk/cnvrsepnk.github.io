@@ -209,8 +209,8 @@ section.success {
 #contact {
     background-image: url('img/space-needle.png');
     background-repeat: no-repeat;
-    background-size: 100% auto;
-    background-position: left center;
+    background-size: auto 100%;
+    background-position: 90% center;
 }
 
 #portfolio .portfolio-item {
@@ -292,7 +292,8 @@ section.success {
     position: relative;
     margin-bottom: 0;
     padding-bottom: .5em;
-    border-bottom: 2px solid #eee;
+    border: 2px solid #eee;
+    background-color: rgba(255,255,255,0.8);
 }
 
 .floating-label-form-group input,
@@ -328,7 +329,7 @@ section.success {
 
 .floating-label-form-group::not(:first-child) {
     padding-left: 14px;
-    border-left: 2px solid #eee;
+    /*border-left: 2px solid #eee;*/
 }
 
 .floating-label-form-group-with-value label {
@@ -341,7 +342,7 @@ section.success {
 }
 
 form .row:first-child .floating-label-form-group {
-    border-top: 2px solid #eee;
+    /*border-top: 2px solid #eee;*/
 }
 
 footer {
