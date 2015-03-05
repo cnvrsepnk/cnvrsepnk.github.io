@@ -221,15 +221,15 @@ section.success {
 #contact {
     background-image: url('img/space-needle.png');
     background-repeat: no-repeat;
-    background-size: auto 100%;
-    background-position: 90% center;
+    background-size: auto 90%;
+    background-position: 98% bottom;
 }
 
 #about {
     background-image: url('img/blossom-bird.png');
     background-repeat: no-repeat;
     background-size: auto auto;
-    background-position: -50px -70px;
+    background-position: -10px 5%;
 }
 
 #portfolio .portfolio-item {
