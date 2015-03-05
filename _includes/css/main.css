@@ -290,10 +290,13 @@ section.success {
 
 .floating-label-form-group {
     position: relative;
-    margin-bottom: 0;
+    margin-bottom: 10px;
     padding-bottom: .5em;
     border: 2px solid #eee;
     background-color: rgba(255,255,255,0.8);
+    border-radius: 8px;
+    -moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
 }
 
 .floating-label-form-group input,
