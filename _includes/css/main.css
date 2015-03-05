@@ -207,8 +207,10 @@ section.success {
 }
 
 #contact {
-    background-image: url('img/02.png');
-    background-repeat: repeat;
+    background-image: url('img/space-needle.png');
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-position: left center;
 }
 
 #portfolio .portfolio-item {
