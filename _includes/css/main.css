@@ -108,8 +108,13 @@ header .intro-text .skills {
     font-weight: 300;
 }
 
-header .container {
-    width: auto;
+.container {
+    width: 100%;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.container-fluid {
     padding-left: 30px;
     padding-right: 30px;
 }
