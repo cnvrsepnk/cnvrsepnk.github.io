@@ -112,11 +112,6 @@ header .intro-text .skills {
     width: 100%;
 }
 
-.navbar-fixed-top .navbar-brand span {
-    background-color: #{{site.color.links}};
-    padding: 15px;
-}
-
 
 @media(min-width:768px) {
     header .container {
