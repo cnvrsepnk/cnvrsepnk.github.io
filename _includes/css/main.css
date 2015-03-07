@@ -240,8 +240,12 @@ section.success {
 #about {
     background-image: url('img/v-flowers-3.png');
     background-repeat: no-repeat;
-    background-size: auto 42%;
+    background-size: auto 50%;
     background-position: -10px -5px;
+}
+
+#about #xtra-padding {
+    padding-top: 50px;
 }
 
 #portfolio .portfolio-item {
