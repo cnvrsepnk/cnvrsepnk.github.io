@@ -226,9 +226,9 @@ section.success {
 }
 
 #about {
-    background-image: url('img/v-flowers.png');
+    background-image: url('img/v-flowers-2.png');
     background-repeat: no-repeat;
-    background-size: auto auto;
+    background-size: auto 42%;
     background-position: left top;
 }
 
