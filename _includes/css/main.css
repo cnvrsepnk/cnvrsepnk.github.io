@@ -226,10 +226,10 @@ section.success {
 }
 
 #about {
-    background-image: url('img/bw-blossoms.png');
+    background-image: url('img/v-flowers.png');
     background-repeat: no-repeat;
     background-size: auto auto;
-    background-position: -115px -50px;
+    background-position: left top;
 }
 
 #portfolio .portfolio-item {
