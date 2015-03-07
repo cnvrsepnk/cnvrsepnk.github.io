@@ -229,7 +229,7 @@ section.success {
     background-image: url('img/v-flowers-3.png');
     background-repeat: no-repeat;
     background-size: auto 42%;
-    background-position: left top;
+    background-position: -10px -5px;
 }
 
 #portfolio .portfolio-item {
