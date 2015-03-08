@@ -152,7 +152,6 @@ nav .container {
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s;
-        display: none;
     }
 
     .navbar-fixed-top .navbar-brand:hover {
