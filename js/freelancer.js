@@ -18,7 +18,7 @@ $(function() {
 $(function() {
     $(window).scroll(function(){
         console.log('WINDOW: ' + $(this).scrollTop());
-        var port = Math.round($('#portfolio').offset().top));
+        var port = Math.round($('#portfolio').offset().top);
         console.log('PORT: ' + port);
         if($(this).scrollTop() == port) {
             console.log('yay!');
