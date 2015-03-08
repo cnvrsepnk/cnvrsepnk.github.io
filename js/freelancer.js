@@ -16,13 +16,14 @@ $(function() {
 });
 
 $(function() {
-    // $(window).scroll(function(){
-    //     console.log($(this).scrollTop());
-    // });
+    $(window).scroll(function(){
+        //console.log($(this).scrollTop());
+        if($(window).scrollTop() == $('#portfolio').offset().top) {
+            alert('yay!');
+        }
+    });
     // console.log('portfolio: ' + $('#portfolio').offset().top);
-    if($(window).scrollTop() == $('#portfolio').offset().top) {
-        alert('yay!');
-    }
+    
 });
 
 // Floating label headings for the contact form
