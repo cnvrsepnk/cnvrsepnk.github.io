@@ -113,8 +113,8 @@ nav .container {
 }
 
 .navbar-fixed-top {
-    -webkit-backface-visibility:hidden;
-    -webkit-transform: translateZ(0);
+    -webkit-backface-visibility: hidden !important;
+    -webkit-transform: translateZ(0) !important;
 }
 
 
