@@ -112,6 +112,11 @@ nav .container {
     width: 100%;
 }
 
+.navbar-fixed-top {
+    -webkit-backface-visibility:hidden;
+    -webkit-transform: translateZ(0);
+}
+
 
 @media(min-width:768px) {
     header .container {
