@@ -23,8 +23,6 @@ $(function() {
         if($(this).scrollTop() >= 698) {
             //$('.navbar-brand').fadeIn();
             $('.navbar-brand').addClass('animate bounceInLeft');
-        } else {
-            $('.navbar-brand').fadeOut();
         }
     });
     
