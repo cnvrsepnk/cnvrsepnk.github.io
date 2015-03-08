@@ -20,7 +20,7 @@ $(function() {
         //console.log('WINDOW: ' + $(this).scrollTop());
         var port = Math.round($('#portfolio').offset().top);
         //console.log('PORT: ' + port);
-        if(698 >= port) {
+        if($(this).scrollTop() >= 698) {
             $('.navbar-brand').fadeIn();
         }
     });
