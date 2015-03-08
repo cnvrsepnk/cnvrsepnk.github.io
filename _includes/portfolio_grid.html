@@ -8,10 +8,10 @@
                     <hr class="star-primary">
                 </div>
             </div>
-            <div class="row">
+            <div class="row wow fadeInUp">
                 {% for post in site.posts %}
                     <div class="col-sm-4 portfolio-item">
-                        <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link wow fadeIn" data-toggle="modal" data-wow-delay="{{ post.modal-id }}s">
+                        <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
                             <div class="caption">
                                 <div class="caption-content">
                                     <h4>{{post.client}}</h4>
