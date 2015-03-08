@@ -19,7 +19,7 @@ $(function() {
     $(window).scroll(function(){
         //console.log($(this).scrollTop());
         if($(window).scrollTop() == $('#portfolio').offset().top) {
-            alert('yay!');
+            console.log('yay!');
         }
     });
     // console.log('portfolio: ' + $('#portfolio').offset().top);
