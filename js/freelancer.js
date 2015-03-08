@@ -20,8 +20,8 @@ $(function() {
         //console.log('WINDOW: ' + $(this).scrollTop());
         var port = Math.round($('#portfolio').offset().top);
         //console.log('PORT: ' + port);
-        if($(this).scrollTop() == port) {
-            $('.navbar-brand').show();
+        if($(this).scrollTop() >= port) {
+            $('.navbar-brand').fadeIn();
         }
     });
     
