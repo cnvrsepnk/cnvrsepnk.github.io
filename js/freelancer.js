@@ -18,8 +18,8 @@ $(function() {
 $(function() {
     $(window).scroll(function(){
         console.log('WINDOW: ' + $(this).scrollTop());
-        console.log('PORT: ' + $('#portfolio').offset().top);
-        if($(window).scrollTop() == $('#portfolio').offset().top) {
+        console.log('PORT: ' + parseInt($('#portfolio').offset().top));
+        if($(window).scrollTop() == parseInt($('#portfolio').offset().top)) {
             console.log('yay!');
         }
     });
