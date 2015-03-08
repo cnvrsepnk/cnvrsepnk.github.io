@@ -21,8 +21,9 @@ $(function() {
         var port = Math.round($('#portfolio').offset().top);
         //console.log('PORT: ' + port);
         if($(this).scrollTop() >= 698) {
-            //$('.navbar-brand').fadeIn();
-            $('.navbar-brand').addClass('animate bounceInLeft');
+            $('.navbar-brand').fadeIn();
+        } else {
+            $('.navbar-brand').fadeOut();
         }
     });
     
