@@ -17,12 +17,12 @@ $(function() {
 
 $(function() {
     $(window).scroll(function(){
-        //console.log($(this).scrollTop());
+        console.log('WINDOW: ' + $(this).scrollTop());
+        console.log('PORT: ' + $('#portfolio').offset().top);
         if($(window).scrollTop() == $('#portfolio').offset().top) {
             console.log('yay!');
         }
     });
-    // console.log('portfolio: ' + $('#portfolio').offset().top);
     
 });
 
