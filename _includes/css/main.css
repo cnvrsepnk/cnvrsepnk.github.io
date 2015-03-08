@@ -88,7 +88,6 @@ header {
 header .container {
     padding-top: 100px;
     padding-bottom: 50px;
-    width: 100%;
 }
 
 header img {
@@ -109,6 +108,10 @@ header .intro-text .skills {
     font-weight: 300;
 }
 
+nav .container {
+    width: 100%;
+}
+
 /*.container {
     width: 100%;
     padding-left: 30px;
@@ -125,8 +128,6 @@ header .intro-text .skills {
     header .container {
         padding-top: 200px;
         padding-bottom: 100px;
-        padding-left: 30px;
-        padding-right: 30px;
     }
 
     header .intro-text .name {
@@ -135,6 +136,11 @@ header .intro-text .skills {
 
     header .intro-text .skills {
         font-size: 1.75em;
+    }
+
+    nav .container {
+        padding-left: 30px;
+        padding-right: 30px;
     }
 }
 
