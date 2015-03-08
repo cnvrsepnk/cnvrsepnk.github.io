@@ -137,6 +137,13 @@ nav .container {
         padding-left: 30px;
         padding-right: 30px;
     }
+
+    #about {
+        background-image: url('img/v-flowers-3.png');
+        background-repeat: no-repeat;
+        background-size: auto 46%;
+        background-position: -10px -5px;
+    }
 }
 
 @media(min-width:768px) {
@@ -240,13 +247,6 @@ section.success {
     background-repeat: no-repeat;
     background-size: auto 90%;
     background-position: 98% bottom;
-}
-
-#about {
-    background-image: url('img/v-flowers-3.png');
-    background-repeat: no-repeat;
-    background-size: auto 46%;
-    background-position: -10px -5px;
 }
 
 #about #xtra-padding {
