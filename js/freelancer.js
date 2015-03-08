@@ -22,6 +22,8 @@ $(function() {
         //console.log('PORT: ' + port);
         if($(this).scrollTop() >= 698) {
             $('.navbar-brand').fadeIn();
+        } else {
+            $('.navbar-brand').fadeOut();
         }
     });
     
