@@ -112,10 +112,6 @@ nav .container {
     width: 100%;
 }
 
-.navbar-fixed-top {
-    -webkit-transform: translate3d(0,0,0) !important;
-}
-
 
 @media(min-width:768px) {
     header .container {
