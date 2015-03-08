@@ -16,7 +16,8 @@ $(function() {
 });
 
 $(function() {
-    if($(window).scrollTop() >= $('#portfolio').offset.top) {
+    console.log($('#portfolio').offset.top);
+    if($(window).scrollTop() == $('#portfolio').offset.top) {
         console.log('yay');
     }
 });
