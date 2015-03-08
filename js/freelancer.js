@@ -16,12 +16,12 @@ $(function() {
 });
 
 $(function() {
-    $(window).scroll(function(){
-        console.log($(this).scrollTop());
-    });
-    console.log('portfolio: ' + $('#portfolio').offset.top);
-    if($(window).scrollTop() == $('#portfolio').offset.top) {
-        console.log('yay');
+    // $(window).scroll(function(){
+    //     console.log($(this).scrollTop());
+    // });
+    // console.log('portfolio: ' + $('#portfolio').offset().top);
+    if($(window).scrollTop() == $('#portfolio').offset().top) {
+        alert('yay!');
     }
 });
 
