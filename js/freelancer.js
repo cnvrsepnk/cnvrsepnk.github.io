@@ -20,7 +20,7 @@ $(function() {
         //console.log('WINDOW: ' + $(this).scrollTop());
         var port = Math.round($('#portfolio').offset().top);
         //console.log('PORT: ' + port);
-        if($(this).scrollTop() >= port-10) {
+        if($(this).scrollTop() >= port-100) {
             $('.navbar-brand').addClass('animated bounceInLeft');
         }
     });
