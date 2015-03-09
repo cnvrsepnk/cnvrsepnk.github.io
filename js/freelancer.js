@@ -4,14 +4,13 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+$('window').load(function(){
 // jQuery for page scrolling feature - requires jQuery Easing plugin
 $(function() {
     $('.page-scroll a').bind('click', function(event) {
         var $anchor = $(this);
-        var nav_height;
-        $('window').load(function(){
-            nav_height = $('nav').outerHeight();
-        });
+       
+        var nav_height = $('nav').outerHeight();
         console.log(nav_height);
         $('html, body').stop().animate({
             scrollTop: $($anchor.attr('href')).offset().top - nav_height
@@ -72,3 +71,5 @@ $('body').scrollspy({
 $('.navbar-collapse ul li a').click(function() {
     $('.navbar-toggle:visible').click();
 });
+
+ });
