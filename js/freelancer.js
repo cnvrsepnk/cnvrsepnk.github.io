@@ -6,7 +6,11 @@
 
 // jQuery for page scrolling feature - requires jQuery Easing plugin
 
-$(document).ready(function() {
+
+
+$(function() {
+    $(window).load(function(){
+
     $('.page-scroll a').bind('click', function(event) {
         var $anchor = $(this);
         var nav_height = $('nav').outerHeight();
@@ -16,6 +20,8 @@ $(document).ready(function() {
         }, 1500, 'easeInOutExpo');
         event.preventDefault();
     });
+    });
+    
 });
 
 $(function() {
