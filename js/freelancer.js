@@ -20,11 +20,8 @@ $(function() {
         //console.log('WINDOW: ' + $(this).scrollTop());
         var port = Math.round($('#portfolio').offset().top);
         //console.log('PORT: ' + port);
-        if($(this).scrollTop() >= 698) {
+        if($(this).scrollTop() >= port-10) {
             $('.navbar-brand').addClass('animated bounceInLeft');
-        }
-        if($(this).scrollTop() < 698) {
-            $('.navbar-brand').css('opacity', '0').removeClass('animated bounceInLeft');
         }
     });
     
