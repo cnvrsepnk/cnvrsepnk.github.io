@@ -34,9 +34,6 @@ $(function() {
     if($(window).width > 768) {
         about_col_1.addClass('wow slideInLeft');
         about_col_2.addClass('wow slideInRight');
-    } else {
-        about_col_1.addClass('wow fadeInUp');
-        about_col_2.addClass('wow fadeInUp');
     }
 });
 
