@@ -11,7 +11,7 @@ $(function() {
         var $anchor = $(this);
 
         $(window).load(function(){
-            var nav_height = $('nav').outerHeight() - 5;
+            var nav_height = $('nav').outerHeight() + 10;
             console.log(nav_height);
         });
         
