@@ -24,7 +24,7 @@ $(function() {
             $('.navbar-brand').addClass('animated bounceInLeft');
         }
         if($(this).scrollTop() < 698) {
-            $('.navbar-brand').css('opacity', '0');
+            $('.navbar-brand').css('opacity', '0').removeClass('animated bounceInLeft');
         }
     });
     
