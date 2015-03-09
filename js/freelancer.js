@@ -3,9 +3,9 @@
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
-
+var nav_height = '';
 $('window').load(function(){
-    var nav_height = $('nav').outerHeight();
+    nav_height = $('nav').outerHeight();
 });
 
 // jQuery for page scrolling feature - requires jQuery Easing plugin
