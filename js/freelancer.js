@@ -22,6 +22,8 @@ $(function() {
         var nav_height = $('nav').outerHeight();
         if($(this).scrollTop() >= (port - nav_height)) {
             $('.navbar-brand').addClass('animated bounceInLeft');
+        } else {
+            $('.navbar-brand').removeClass('animated bounceInLeft');
         }
     });
     
@@ -59,7 +61,7 @@ $(function() {
 var nav_height = $('nav').outerHeight();
 $('body').scrollspy({
     target: '.navbar-fixed-top',
-    offset: nav_height + 2
+    offset: nav_height + 5
 });
 
 // Closes the Responsive Menu on Menu Item Click
