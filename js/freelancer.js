@@ -56,9 +56,10 @@ $(function() {
 });
 
 // Highlight the top nav as scrolling occurs
+var nav_height = $('nav').outerHeight();
 $('body').scrollspy({
     target: '.navbar-fixed-top',
-    offset: 100
+    offset: nav_height
 })
 
 // Closes the Responsive Menu on Menu Item Click
