@@ -59,7 +59,7 @@ $(function() {
 var nav_height = $('nav').outerHeight();
 $('body').scrollspy({
     target: '.navbar-fixed-top',
-    offset: nav_height + 1
+    offset: nav_height + 2
 });
 
 // Closes the Responsive Menu on Menu Item Click
