@@ -8,8 +8,9 @@
 $(function() {
     $('.page-scroll a').bind('click', function(event) {
         var $anchor = $(this);
+        var nav_height = $('nav').outerHeight();
         $('html, body').stop().animate({
-            scrollTop: $($anchor.attr('href')).offset().top - 80
+            scrollTop: $($anchor.attr('href')).offset().top - nav_height
         }, 1500, 'easeInOutExpo');
         event.preventDefault();
     });
@@ -17,10 +18,9 @@ $(function() {
 
 $(function() {
     $(window).scroll(function(){
-        //console.log('WINDOW: ' + $(this).scrollTop());
         var port = Math.round($('#portfolio').offset().top);
-        //console.log('PORT: ' + port);
-        if($(this).scrollTop() >= port-100) {
+        var nav_height = $('nav').outerHeight();
+        if($(this).scrollTop() >= (port - nav_height)) {
             $('.navbar-brand').addClass('animated bounceInLeft');
         }
     });

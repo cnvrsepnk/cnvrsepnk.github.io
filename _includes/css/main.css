@@ -118,6 +118,14 @@ nav .container {
     -webkit-transform: translateZ(0) !important;
 }
 
+.navbar-fixed-top .navbar-brand {
+    opacity: 0;
+}
+
+.navbar-fixed-top .navbar-brand.animated {
+    opacity: 1;
+}
+
 
 @media(min-width:768px) {
     header .container {
@@ -163,11 +171,6 @@ nav .container {
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s;
-        opacity: 0;
-    }
-
-    .navbar-fixed-top .navbar-brand.animated {
-        opacity: 1;
     }
 
     .navbar-fixed-top .navbar-brand:hover {
