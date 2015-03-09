@@ -10,7 +10,7 @@ $('window').load(function(){
 });
 
 // jQuery for page scrolling feature - requires jQuery Easing plugin
-$(function() {
+$(function(nav_height) {
     $('.page-scroll a').bind('click', function(event) {
         var $anchor = $(this);
         console.log(nav_height);
@@ -22,7 +22,7 @@ $(function() {
 });
 
 $(function() {
-    $(window).scroll(function(){
+    $(window).scroll(function(nav_height){
         var port = Math.round($('#portfolio').offset().top);
         //var nav_height = $('nav').outerHeight();
         if($(this).scrollTop() >= (port - nav_height)) {
