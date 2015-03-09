@@ -9,9 +9,9 @@
 $(function() {
     $('.page-scroll a').bind('click', function(event) {
         var $anchor = $(this);
-        
+
         $(window).load(function(){
-            var nav_height = $('nav').outerHeight();
+            var nav_height = $('nav').outerHeight() + 5;
             console.log(nav_height);
         });
         
