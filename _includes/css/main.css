@@ -144,6 +144,10 @@ nav .container {
         background-size: auto 46%;
         background-position: -10px -5px;
     }
+
+    #about #xtra-padding #col1, #about #xtra-padding #col2 {
+        text-align: center;
+    }
 }
 
 @media(min-width:768px) {
@@ -180,6 +184,10 @@ nav .container {
 
     .navbar-fixed-top.navbar-shrink .navbar-brand {
         font-size: 1.5em;
+    }
+
+    #about #xtra-padding #col1, #about #xtra-padding #col2 {
+        text-align: left;
     }
 }
 
