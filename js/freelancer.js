@@ -33,7 +33,7 @@ $(function() {
         var about_col_1 = $('#about #xtra-padding #col1');
         var about_col_2 = $('#about #xtra-padding #col2');
 
-        if($(window).width > 768) {
+        if($(window).width() > 768) {
             about_col_1.addClass('wow slideInLeft');
             about_col_2.addClass('wow slideInRight');
         }
