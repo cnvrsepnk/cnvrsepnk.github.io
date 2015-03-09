@@ -8,7 +8,10 @@
 $(function() {
     $('.page-scroll a').bind('click', function(event) {
         var $anchor = $(this);
-        var nav_height = $('nav').outerHeight();
+        $('window').load(function(){
+            var nav_height = $('nav').outerHeight();
+        });
+        
         console.log(nav_height);
         $('html, body').stop().animate({
             scrollTop: $($anchor.attr('href')).offset().top - nav_height
