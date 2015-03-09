@@ -11,7 +11,7 @@ $(function() {
         var $anchor = $(this);
 
         $(window).load(function(){
-            var nav_height = $('nav').outerHeight() + 5;
+            var nav_height = $('nav').outerHeight() + 10;
             console.log(nav_height);
         });
         
@@ -25,7 +25,7 @@ $(function() {
 $(function() {
     $(window).scroll(function(){
         var port = Math.round($('#portfolio').offset().top);
-        var nav_height = $('nav').outerHeight() + 5;
+        var nav_height = $('nav').outerHeight() + 10;
         if($(this).scrollTop() >= (port - nav_height)) {
             $('.navbar-brand').addClass('animated bounceInLeft');
         } else {
@@ -67,7 +67,7 @@ $(function() {
 var nav_height = $('nav').outerHeight();
 $('body').scrollspy({
     target: '.navbar-fixed-top',
-    offset: nav_height + 5
+    offset: nav_height + 10
 });
 
 // Closes the Responsive Menu on Menu Item Click
