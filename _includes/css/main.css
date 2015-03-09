@@ -146,7 +146,7 @@ nav .container {
     }
 
     #about #xtra-padding #col1 p, #about #xtra-padding #col2 p {
-        text-align: center;
+        text-align: left;
     }
 }
 
@@ -186,9 +186,6 @@ nav .container {
         font-size: 1.5em;
     }
 
-    #about #xtra-padding #col1 p, #about #xtra-padding #col2 p {
-        text-align: left;
-    }
 }
 
 .navbar {
@@ -267,6 +264,10 @@ section.success {
 
 #about #xtra-padding .btn-outline {
     margin-top: 35px;
+}
+
+#about #xtra-padding #col1 p, #about #xtra-padding #col2 p {
+    text-align: center;
 }
 
 #portfolio .portfolio-item {
