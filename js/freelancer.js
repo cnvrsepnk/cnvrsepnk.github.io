@@ -20,7 +20,7 @@ $(function() {
 $(function() {
     $(window).scroll(function(){
         var port = Math.round($('#portfolio').offset().top);
-        var nav_height = $('nav').outerHeight();
+        var nav_height = $('nav').outerHeight() + 5;
         if($(this).scrollTop() >= (port - nav_height)) {
             $('.navbar-brand').addClass('animated bounceInLeft');
         } else {
