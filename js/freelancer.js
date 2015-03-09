@@ -5,7 +5,8 @@
  */
 
 // jQuery for page scrolling feature - requires jQuery Easing plugin
-$(function() {
+
+$(window).load(function() {
     $('.page-scroll a').bind('click', function(event) {
         var $anchor = $(this);
         var nav_height = $('nav').outerHeight();
