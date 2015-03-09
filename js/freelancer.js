@@ -59,9 +59,8 @@ $(function() {
 var nav_height = $('nav').outerHeight();
 $('body').scrollspy({
     target: '.navbar-fixed-top',
-    offset: nav_height
+    offset: nav_height + 1
 });
-var scrollPos = $('body > .container').find($(this).attr('href')).offset().top - (nav_height - 1);
 
 // Closes the Responsive Menu on Menu Item Click
 $('.navbar-collapse ul li a').click(function() {
