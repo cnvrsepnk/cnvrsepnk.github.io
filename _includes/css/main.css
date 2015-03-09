@@ -126,6 +126,9 @@ nav .container {
     opacity: 1;
 }
 
+#about #xtra-padding #col1 p, #about #xtra-padding #col2 p {
+    text-align: center;
+}
 
 @media(min-width:768px) {
     header .container {
@@ -267,10 +270,6 @@ section.success {
 
 #about #xtra-padding .btn-outline {
     margin-top: 35px;
-}
-
-#about #xtra-padding #col1 p, #about #xtra-padding #col2 p {
-    text-align: center;
 }
 
 #portfolio .portfolio-item {
