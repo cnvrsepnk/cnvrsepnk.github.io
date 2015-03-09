@@ -27,6 +27,19 @@ $(function() {
     
 });
 
+$(function() {
+    var about_col_1 = $('#about #xtra-padding #col1');
+    var about_col_2 = $('#about #xtra-padding #col2');
+
+    if($(window).width > 768) {
+        about_col_1.addClass('wow slideInLeft');
+        about_col_2.addClass('wow slideInRight');
+    } else {
+        about_col_1.addClass('wow fadeInUp');
+        about_col_2.addClass('wow fadeInUp');
+    }
+});
+
 // Floating label headings for the contact form
 $(function() {
     $("body").on("input propertychange", ".floating-label-form-group", function(e) {
