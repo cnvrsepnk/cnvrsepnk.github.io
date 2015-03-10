@@ -6,6 +6,7 @@
 
 body {
     overflow-x: hidden;
+    font-family: Ubuntu,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
 p {
@@ -32,7 +33,7 @@ h4,
 h5,
 h6 {
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: Quicksand,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
 }
 
@@ -98,7 +99,7 @@ header img {
 header .intro-text .name {
     display: block;
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: Quicksand,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 2em;
     font-weight: 700;
 }
@@ -156,7 +157,7 @@ nav .container {
     #about {
         background-image: url('img/v-flowers-3.png');
         background-repeat: no-repeat;
-        background-size: auto 46%;
+        background-size: auto 45%;
         background-position: -20px 15px;
     }
 
@@ -200,7 +201,7 @@ nav .container {
 
 .navbar {
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: Quicksand,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
 }
 
@@ -426,7 +427,7 @@ footer .footer-above {
 }
 
 footer .footer-col {
-    margin-bottom: 50px;
+    margin-bottom: 20px;
 }
 
 footer .footer-below {
