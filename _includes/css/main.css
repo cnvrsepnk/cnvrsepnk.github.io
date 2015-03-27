@@ -155,10 +155,22 @@ nav .container {
     }
 
     #about {
-        background-image: url('img/v-flowers-3.png');
+        background-image: url('img/v-flowers-no-branch.png');
         background-repeat: no-repeat;
         background-size: auto 45%;
-        background-position: -20px 15px;
+        background-position: -20px 0;
+        position: relative;
+    }
+
+    #about #bottom-corner {
+        position: absolute;
+        right: -30px;
+        bottom: 10px;
+        height: 155px;
+        width: 315px;
+        background-image: url('img/flowers3.png');
+        background-repeat: no-repeat;
+        background-size: auto 100%;
     }
 
     #about #xtra-padding #col1 p, #about #xtra-padding #col2 p {

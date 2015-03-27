@@ -2,7 +2,8 @@
 layout: default
 modal-id: 5
 date: 2014-07-15
-img: game.png
+img: care_payment.png
+thumb: game.png
 alt: image-alt
 project-date: April 2014
 client: CarePayment
