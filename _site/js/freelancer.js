@@ -45,8 +45,8 @@ $(function() {
             about_col_1.addClass('wow slideInLeft');
             about_col_2.addClass('wow slideInRight');
         } else {
-            about_col_1.addClass('wow fadeInUp');
-            about_col_2.addClass('wow fadeInUp');
+            about_col_1.addClass('wow fadeInDown');
+            about_col_2.addClass('wow fadeInDown');
         }
     });
     
