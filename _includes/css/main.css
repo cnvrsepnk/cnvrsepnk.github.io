@@ -113,9 +113,9 @@ header .intro-text .skills div {
     display: inline-block;
 }
 
-nav .container {
+/*nav .container {
     width: 100%;
-}
+}*/
 
 /*bugfix for chrome*/
 .navbar-fixed-top {
