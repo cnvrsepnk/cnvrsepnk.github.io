@@ -6,7 +6,7 @@
 
 body {
     overflow-x: hidden;
-    font-family: Ubuntu,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: Source Sans Pro,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
 p {
@@ -282,10 +282,6 @@ section.success {
     background-position: 98% bottom;
 }
 
-#about #xtra-padding {
-    padding-top: 50px;
-}
-
 #about #xtra-padding .btn-outline {
     margin-top: 35px;
 }
@@ -300,6 +296,7 @@ section.success {
     position: relative;
     margin: 0 auto;
     max-width: 400px;
+    border: 2px solid #eaeaea;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption {

@@ -3,7 +3,7 @@ layout: default
 modal-id: 1
 date: 2014-07-18
 img: emerald.png
-thumb: cabin.png
+thumb: portfolio_emerald.png
 alt: image-alt
 project-date: April 2014
 client: Emerald
