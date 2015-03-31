@@ -251,6 +251,10 @@ header .intro-text .skills div {
     border: 0;
 }
 
+.navbar-nav.navbar-right:last-child {
+    margin-right: 0;
+}
+
 section {
     padding: 100px 0;
 }
