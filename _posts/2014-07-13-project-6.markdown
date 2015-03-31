@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date: 2014-07-13
-thumb: portfolio_nautican.png
+thumb: submarine.png
 alt: image-alt
 project-date: April 2014
 client: Nautican
