@@ -165,7 +165,7 @@ header .intro-text .skills div {
     #about #bottom-corner {
         position: absolute;
         right: 0;
-        bottom: 10px;
+        bottom: 0;
         height: 155px;
         width: 315px;
         background-image: url('img/flowers3.png');
