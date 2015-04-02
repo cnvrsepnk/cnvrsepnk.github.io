@@ -157,15 +157,15 @@ header .intro-text .skills div {
     #about {
         background-image: url('img/v-flowers-no-branch.png');
         background-repeat: no-repeat;
-        background-size: auto 45%;
-        background-position: -20px 0;
+        background-size: auto 38%;
+        background-position: -20px 45px;
         position: relative;
     }
 
     #about #bottom-corner {
         position: absolute;
         right: 0;
-        bottom: 0;
+        bottom: 20px;
         height: 155px;
         width: 315px;
         background-image: url('img/flowers3.png');
@@ -287,6 +287,10 @@ section.success {
 }
 
 #about #xtra-padding .btn-outline {
+    margin-top: 35px;
+}
+
+#about #xtra-padding {
     margin-top: 35px;
 }
 
