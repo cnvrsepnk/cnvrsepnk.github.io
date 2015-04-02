@@ -35,22 +35,24 @@ $(function() {
     
 });
 
-// $(function() {
+$(function() {
 
-//     $( document ).ready(function() {
-//         var about_col_1 = $('#about #xtra-padding #col1');
-//         var about_col_2 = $('#about #xtra-padding #col2');
+    $( document ).ready(function() {
+        // var about_col_1 = $('#about #xtra-padding #col1');
+        // var about_col_2 = $('#about #xtra-padding #col2');
 
-//         if($(window).width() > 1200) {
-//             about_col_1.addClass('wow fadeInLeft');
-//             about_col_2.addClass('wow fadeInRight');
-//         } else {
-//             about_col_1.addClass('wow fadeInUp');
-//             about_col_2.addClass('wow fadeInUp');
-//         }
-//     });
+        // if($(window).width() > 1200) {
+        //     about_col_1.addClass('wow fadeInLeft');
+        //     about_col_2.addClass('wow fadeInRight');
+        // } else {
+        //     about_col_1.addClass('wow fadeInUp');
+        //     about_col_2.addClass('wow fadeInUp');
+        // }
+
+        //$("span.name").sparkle();
+    });
     
-// });
+});
 
 // Floating label headings for the contact form
 $(function() {
@@ -63,6 +65,7 @@ $(function() {
     });
 });
 
+
 // Highlight the top nav as scrolling occurs
 var nav_height = $('nav').outerHeight();
 $('body').scrollspy({
@@ -74,3 +77,5 @@ $('body').scrollspy({
 $('.navbar-collapse ul li a').click(function() {
     $('.navbar-toggle:visible').click();
 });
+
+
