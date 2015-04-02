@@ -504,11 +504,12 @@ footer .footer-below {
 
 .portfolio-modal .modal-content h2 {
     margin: 0;
-    font-size: 3em;
+    font-size: 2em;
 }
 
 .portfolio-modal .modal-content img {
     margin-bottom: 30px;
+    border: 2px solid #eaeaea;
 }
 
 .portfolio-modal .modal-content .item-details {
