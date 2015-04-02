@@ -136,10 +136,10 @@ header .intro-text .skills div {
 }
 
 @media(min-width:768px) {
-   /* header .container {
+    header .container {
         padding-top: 200px;
         padding-bottom: 100px;
-    }*/
+    }
 
     header .intro-text .name {
         font-size: 4.75em;
@@ -176,13 +176,6 @@ header .intro-text .skills div {
 
     #about #xtra-padding #col1 p, #about #xtra-padding #col2 p {
         text-align: left;
-    }
-}
-
-@media(min-width:1025px) {
-    header .container {
-        padding-top: 200px;
-        padding-bottom: 100px;
     }
 }
 
