@@ -2,7 +2,7 @@
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: foss.png
+img: foss_display.png
 thumb: foss_thumb.png
 alt: image-alt
 project-date: December 2013
