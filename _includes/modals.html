@@ -16,7 +16,7 @@
                             <hr class="star-primary">
                             <div class="col-md-6"><a href="{{ post.client-url }}" target="_blank"><img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}"></a></div>
                             <div class="col-md-6"><a href="{{ post.client-url }}" target="_blank"><img src="img/portfolio/{{ post.thumb }}" class="img-responsive img-centered" alt="{{ post.alt }}"></a></div>
-                            <p>{{ post.description }}</p>
+                            <div class="col-lg-12"><p>{{ post.description }}</p>
                             <ul class="list-inline item-details">
                                 <li>Client's Website:
                                     <strong><a href="{{ post.client-url }}" target="_blank">{{ post.client }}</a>
@@ -31,6 +31,7 @@
                                 </li>
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                            </div>
                         </div>
                     </div>
                 </div>
