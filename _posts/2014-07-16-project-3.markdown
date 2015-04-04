@@ -9,6 +9,6 @@ project-date: June 2014
 client: Eco-Site
 client-url: http://eco-site.com
 category: Web Development
-description: This was a fun to make one-page animated scrolling WordPress site. Each section is organized in the back end as its own page and the content is pulled into one front-page template file. Challenges included making a custom vertical slider, custom horizontally expanding bio cards, custom anchored upward expanding accordion with position detection and faux real-time blended responsive stripes using a combination of background-clip and multiple images.
+description: This was a fun to make one-page animated scrolling WordPress site. Each section is organized in the back end as its own page and the content is pulled into one front-page template file.<p>Challenges included making a custom vertical slider, custom horizontally expanding bio cards, custom anchored upward expanding accordion with position detection and faux real-time blended responsive stripes using a combination of background-clip and multiple images.</p>
 
 ---

@@ -9,6 +9,6 @@ project-date: December 2013
 client: Foss
 client-url: http://foss.com
 category: Web Development
-description: This iteration of the Foss site was built by combining elements from two of their old sites, as well as adding new features and functionality. It was an exercise in efficiency by deciding what needed to scrapped and re-built to suit the new design and what code could be recycled in order to save development time. Features include customized homepage background image accordion and interactive map with advanced sorting capabilities.
+description: This iteration of the Foss site was built by combining elements from two of their old sites, as well as adding new features and functionality. It was an exercise in efficiency by deciding what needed to scrapped and re-built to suit the new design and what code could be recycled in order to save development time.<p>Features include customized homepage background image accordion and interactive map with advanced sorting capabilities.</p>
 
 ---

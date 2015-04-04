@@ -9,6 +9,6 @@ project-date: December 2014
 client: Emerald
 client-url: http://emeraldrenews.com
 category: Web Development
-description: The design elements of this site posed an interesting challenge because of all the angles involved. I used a combination of CSS & jQuery to append/prepend many triangular graphics to the main navigation and elsewhere in the site. Other features include a custom location map with tooltips, custom interactive infographics and modal contact form. Created custom home-page animated counters using a combination of an existing plugin and calculating the rate at which each resource increased by one unit from the projected annual totals.
+description: The design elements of this site posed an interesting challenge because of all the angles involved. I used a combination of CSS & jQuery to append/prepend many triangular graphics to the main navigation and elsewhere in the site.<p>Other features include a custom location map with tooltips, custom interactive infographics and modal contact form. Created custom home-page animated counters using a combination of an existing plugin and calculating the rate at which each resource increased by one unit from the projected annual totals.</p>
 
 ---

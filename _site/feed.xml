@@ -5,13 +5,13 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>https://cnvrsepnk.github.io/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 04 Apr 2015 13:26:25 -0700</pubDate>
-    <lastBuildDate>Sat, 04 Apr 2015 13:26:25 -0700</lastBuildDate>
+    <pubDate>Sat, 04 Apr 2015 13:30:05 -0700</pubDate>
+    <lastBuildDate>Sat, 04 Apr 2015 13:30:05 -0700</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>Project 1</title>
-        <description>The design elements of this site posed an interesting challenge because of all the angles involved. I used a combination of CSS &amp; jQuery to append/prepend many triangular graphics to the main navigation and elsewhere in the site. Other features include a custom location map with tooltips, custom interactive infographics and modal contact form. Created custom home-page animated counters using a combination of an existing plugin and calculating the rate at which each resource increased by one unit from the projected annual totals.</description>
+        <description>The design elements of this site posed an interesting challenge because of all the angles involved. I used a combination of CSS &amp; jQuery to append/prepend many triangular graphics to the main navigation and elsewhere in the site.&lt;p&gt;Other features include a custom location map with tooltips, custom interactive infographics and modal contact form. Created custom home-page animated counters using a combination of an existing plugin and calculating the rate at which each resource increased by one unit from the projected annual totals.&lt;/p&gt;</description>
         <pubDate>Fri, 18 Jul 2014 00:00:00 -0700</pubDate>
         <link>https://cnvrsepnk.github.io/web%20development/2014/07/18/project-1/</link>
         <guid isPermaLink="true">https://cnvrsepnk.github.io/web%20development/2014/07/18/project-1/</guid>
@@ -23,7 +23,7 @@
     
       <item>
         <title>Project 2</title>
-        <description>With this WordPress site I made extensive use of the Advanced Custom Fields plugin, as there was so much content that needed to be broken up section by section but still be organized by page in the admin area. This resulted in an extremely customized backend and highly dynamic site. Other features included a randomized full-screen front-page background image and slider, a custom left sidebar main navigation with transition effects and the integration of different color themes per each top-level section of the site.</description>
+        <description>With this WordPress site I made extensive use of the Advanced Custom Fields plugin, as there was so much content that needed to be broken up section by section but still be organized by page in the admin area. This resulted in an extremely customized backend and highly dynamic site.&lt;p&gt;Other features included a randomized full-screen front-page background image and slider, a custom left sidebar main navigation with transition effects and the integration of different color themes per each top-level section of the site.&lt;/p&gt;</description>
         <pubDate>Thu, 17 Jul 2014 00:00:00 -0700</pubDate>
         <link>https://cnvrsepnk.github.io/web%20development/2014/07/17/project-2/</link>
         <guid isPermaLink="true">https://cnvrsepnk.github.io/web%20development/2014/07/17/project-2/</guid>
@@ -35,7 +35,7 @@
     
       <item>
         <title>Project 3</title>
-        <description>This was a fun to make one-page animated scrolling WordPress site. Each section is organized in the back end as its own page and the content is pulled into one front-page template file. Challenges included making a custom vertical slider, custom horizontally expanding bio cards, custom anchored upward expanding accordion with position detection and faux real-time blended responsive stripes using a combination of background-clip and multiple images.</description>
+        <description>This was a fun to make one-page animated scrolling WordPress site. Each section is organized in the back end as its own page and the content is pulled into one front-page template file.&lt;p&gt;Challenges included making a custom vertical slider, custom horizontally expanding bio cards, custom anchored upward expanding accordion with position detection and faux real-time blended responsive stripes using a combination of background-clip and multiple images.&lt;/p&gt;</description>
         <pubDate>Wed, 16 Jul 2014 00:00:00 -0700</pubDate>
         <link>https://cnvrsepnk.github.io/web%20development/2014/07/16/project-3/</link>
         <guid isPermaLink="true">https://cnvrsepnk.github.io/web%20development/2014/07/16/project-3/</guid>
@@ -47,7 +47,7 @@
     
       <item>
         <title>Project 4</title>
-        <description>Practically everything is dynamic on this site, as the client needed to be able to easily add and modify all text and images in the WordPress admin backend. Features subtle hover transition effects and magic line navigation. Challenges included writing a custom script for organizing archived posts into accordions, and making a custom widget for the sidebar which displayed featured posts in a slideshow. Also includes Marketo form and landing page integration.</description>
+        <description>Practically everything is dynamic on this site, as the client needed to be able to easily add and modify all text and images in the WordPress admin backend. Features subtle hover transition effects and magic line navigation.&lt;p&gt;Challenges included writing a custom script for organizing archived posts into accordions, and making a custom widget for the sidebar which displayed featured posts in a slideshow. Also includes Marketo form and landing page integration.&lt;/p&gt;</description>
         <pubDate>Tue, 15 Jul 2014 00:00:00 -0700</pubDate>
         <link>https://cnvrsepnk.github.io/web%20development/2014/07/15/project-4/</link>
         <guid isPermaLink="true">https://cnvrsepnk.github.io/web%20development/2014/07/15/project-4/</guid>
@@ -59,7 +59,7 @@
     
       <item>
         <title>Project 5</title>
-        <description>This iteration of the Foss site was built by combining elements from two of their old sites, as well as adding new features and functionality. It was an exercise in efficiency by deciding what needed to scrapped and re-built to suit the new design and what code could be recycled in order to save development time. Features include customized homepage background image accordion and interactive map with advanced sorting capabilities.</description>
+        <description>This iteration of the Foss site was built by combining elements from two of their old sites, as well as adding new features and functionality. It was an exercise in efficiency by deciding what needed to scrapped and re-built to suit the new design and what code could be recycled in order to save development time.&lt;p&gt;Features include customized homepage background image accordion and interactive map with advanced sorting capabilities.&lt;/p&gt;</description>
         <pubDate>Mon, 14 Jul 2014 00:00:00 -0700</pubDate>
         <link>https://cnvrsepnk.github.io/web%20development/2014/07/14/project-5/</link>
         <guid isPermaLink="true">https://cnvrsepnk.github.io/web%20development/2014/07/14/project-5/</guid>

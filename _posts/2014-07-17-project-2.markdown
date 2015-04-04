@@ -9,6 +9,6 @@ project-date: September 2014
 client: Washington Teamsters Welfare Trust
 client-url: http://wateamsters.com
 category: Web Development
-description: With this WordPress site I made extensive use of the Advanced Custom Fields plugin, as there was so much content that needed to be broken up section by section but still be organized by page in the admin area. This resulted in an extremely customized backend and highly dynamic site. Other features included a randomized full-screen front-page background image and slider, a custom left sidebar main navigation with transition effects and the integration of different color themes per each top-level section of the site.
+description: With this WordPress site I made extensive use of the Advanced Custom Fields plugin, as there was so much content that needed to be broken up section by section but still be organized by page in the admin area. This resulted in an extremely customized backend and highly dynamic site.<p>Other features included a randomized full-screen front-page background image and slider, a custom left sidebar main navigation with transition effects and the integration of different color themes per each top-level section of the site.</p>
 
 ---
