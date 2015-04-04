@@ -5,13 +5,13 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>https://cnvrsepnk.github.io/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 01 Apr 2015 22:23:27 -0700</pubDate>
-    <lastBuildDate>Wed, 01 Apr 2015 22:23:27 -0700</lastBuildDate>
+    <pubDate>Sat, 04 Apr 2015 13:26:25 -0700</pubDate>
+    <lastBuildDate>Sat, 04 Apr 2015 13:26:25 -0700</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>Project 1</title>
-        <description>&lt;p&gt;Kitty ipsum dolor sit amet, lay down in your way bat judging you knock over the lamp stretching, fluffy fur knock over the lamp biting I don&#39;t like that food claw. Kittens toss the mousie give me fish run sleep in the sink, sleep on your keyboard bat kittens eat the grass hairball scratched.&lt;/p&gt;&lt;p&gt;Hairball fluffy fur I don&#39;t like that food scratched run eat, scratched jump on the table puking knock over the lamp. Climb the curtains shed everywhere claw climb the curtains sleep in the sink hiss, puking hairball jump on the table chase the red dot.&lt;/p&gt;</description>
+        <description>The design elements of this site posed an interesting challenge because of all the angles involved. I used a combination of CSS &amp; jQuery to append/prepend many triangular graphics to the main navigation and elsewhere in the site. Other features include a custom location map with tooltips, custom interactive infographics and modal contact form. Created custom home-page animated counters using a combination of an existing plugin and calculating the rate at which each resource increased by one unit from the projected annual totals.</description>
         <pubDate>Fri, 18 Jul 2014 00:00:00 -0700</pubDate>
         <link>https://cnvrsepnk.github.io/web%20development/2014/07/18/project-1/</link>
         <guid isPermaLink="true">https://cnvrsepnk.github.io/web%20development/2014/07/18/project-1/</guid>
@@ -23,7 +23,7 @@
     
       <item>
         <title>Project 2</title>
-        <description>&lt;p&gt;Kitty ipsum dolor sit amet, lay down in your way bat judging you knock over the lamp stretching, fluffy fur knock over the lamp biting I don&#39;t like that food claw. Kittens toss the mousie give me fish run sleep in the sink, sleep on your keyboard bat kittens eat the grass hairball scratched.&lt;/p&gt;&lt;p&gt;Hairball fluffy fur I don&#39;t like that food scratched run eat, scratched jump on the table puking knock over the lamp. Climb the curtains shed everywhere claw climb the curtains sleep in the sink hiss, puking hairball jump on the table chase the red dot.&lt;/p&gt;</description>
+        <description>With this WordPress site I made extensive use of the Advanced Custom Fields plugin, as there was so much content that needed to be broken up section by section but still be organized by page in the admin area. This resulted in an extremely customized backend and highly dynamic site. Other features included a randomized full-screen front-page background image and slider, a custom left sidebar main navigation with transition effects and the integration of different color themes per each top-level section of the site.</description>
         <pubDate>Thu, 17 Jul 2014 00:00:00 -0700</pubDate>
         <link>https://cnvrsepnk.github.io/web%20development/2014/07/17/project-2/</link>
         <guid isPermaLink="true">https://cnvrsepnk.github.io/web%20development/2014/07/17/project-2/</guid>
@@ -35,7 +35,7 @@
     
       <item>
         <title>Project 3</title>
-        <description>&lt;p&gt;Kitty ipsum dolor sit amet, lay down in your way bat judging you knock over the lamp stretching, fluffy fur knock over the lamp biting I don&#39;t like that food claw. Kittens toss the mousie give me fish run sleep in the sink, sleep on your keyboard bat kittens eat the grass hairball scratched.&lt;/p&gt;&lt;p&gt;Hairball fluffy fur I don&#39;t like that food scratched run eat, scratched jump on the table puking knock over the lamp. Climb the curtains shed everywhere claw climb the curtains sleep in the sink hiss, puking hairball jump on the table chase the red dot.&lt;/p&gt;</description>
+        <description>This was a fun to make one-page animated scrolling WordPress site. Each section is organized in the back end as its own page and the content is pulled into one front-page template file. Challenges included making a custom vertical slider, custom horizontally expanding bio cards, custom anchored upward expanding accordion with position detection and faux real-time blended responsive stripes using a combination of background-clip and multiple images.</description>
         <pubDate>Wed, 16 Jul 2014 00:00:00 -0700</pubDate>
         <link>https://cnvrsepnk.github.io/web%20development/2014/07/16/project-3/</link>
         <guid isPermaLink="true">https://cnvrsepnk.github.io/web%20development/2014/07/16/project-3/</guid>
@@ -47,7 +47,7 @@
     
       <item>
         <title>Project 4</title>
-        <description>&lt;p&gt;Kitty ipsum dolor sit amet, lay down in your way bat judging you knock over the lamp stretching, fluffy fur knock over the lamp biting I don&#39;t like that food claw. Kittens toss the mousie give me fish run sleep in the sink, sleep on your keyboard bat kittens eat the grass hairball scratched.&lt;/p&gt;&lt;p&gt;Hairball fluffy fur I don&#39;t like that food scratched run eat, scratched jump on the table puking knock over the lamp. Climb the curtains shed everywhere claw climb the curtains sleep in the sink hiss, puking hairball jump on the table chase the red dot.&lt;/p&gt;</description>
+        <description>Practically everything is dynamic on this site, as the client needed to be able to easily add and modify all text and images in the WordPress admin backend. Features subtle hover transition effects and magic line navigation. Challenges included writing a custom script for organizing archived posts into accordions, and making a custom widget for the sidebar which displayed featured posts in a slideshow. Also includes Marketo form and landing page integration.</description>
         <pubDate>Tue, 15 Jul 2014 00:00:00 -0700</pubDate>
         <link>https://cnvrsepnk.github.io/web%20development/2014/07/15/project-4/</link>
         <guid isPermaLink="true">https://cnvrsepnk.github.io/web%20development/2014/07/15/project-4/</guid>
@@ -59,7 +59,7 @@
     
       <item>
         <title>Project 5</title>
-        <description>&lt;p&gt;Kitty ipsum dolor sit amet, lay down in your way bat judging you knock over the lamp stretching, fluffy fur knock over the lamp biting I don&#39;t like that food claw. Kittens toss the mousie give me fish run sleep in the sink, sleep on your keyboard bat kittens eat the grass hairball scratched.&lt;/p&gt;&lt;p&gt;Hairball fluffy fur I don&#39;t like that food scratched run eat, scratched jump on the table puking knock over the lamp. Climb the curtains shed everywhere claw climb the curtains sleep in the sink hiss, puking hairball jump on the table chase the red dot.&lt;/p&gt;</description>
+        <description>This iteration of the Foss site was built by combining elements from two of their old sites, as well as adding new features and functionality. It was an exercise in efficiency by deciding what needed to scrapped and re-built to suit the new design and what code could be recycled in order to save development time. Features include customized homepage background image accordion and interactive map with advanced sorting capabilities.</description>
         <pubDate>Mon, 14 Jul 2014 00:00:00 -0700</pubDate>
         <link>https://cnvrsepnk.github.io/web%20development/2014/07/14/project-5/</link>
         <guid isPermaLink="true">https://cnvrsepnk.github.io/web%20development/2014/07/14/project-5/</guid>
@@ -71,7 +71,7 @@
     
       <item>
         <title>Project 6</title>
-        <description>&lt;p&gt;Kitty ipsum dolor sit amet, lay down in your way bat judging you knock over the lamp stretching, fluffy fur knock over the lamp biting I don&#39;t like that food claw. Kittens toss the mousie give me fish run sleep in the sink, sleep on your keyboard bat kittens eat the grass hairball scratched.&lt;/p&gt;&lt;p&gt;Hairball fluffy fur I don&#39;t like that food scratched run eat, scratched jump on the table puking knock over the lamp. Climb the curtains shed everywhere claw climb the curtains sleep in the sink hiss, puking hairball jump on the table chase the red dot.&lt;/p&gt;</description>
+        <description>This was the first WordPress site I built from the ground up - it taught me how to start mobile first and properly use media queries, thoroughly customize a bare bones starter theme, create custom post type and archive templates and integrate various plugins for sidebar management and photo galleries etc. Basically all of the WP basics which are now second nature I was acquainted with on this project.</description>
         <pubDate>Sun, 13 Jul 2014 00:00:00 -0700</pubDate>
         <link>https://cnvrsepnk.github.io/web%20development/2014/07/13/project-6/</link>
         <guid isPermaLink="true">https://cnvrsepnk.github.io/web%20development/2014/07/13/project-6/</guid>

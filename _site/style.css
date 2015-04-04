@@ -503,7 +503,7 @@ footer .footer-below {
 }
 
 .portfolio-modal .modal-content {
-    padding: 100px 0;
+    padding: 40px 0;
     min-height: 100%;
     border: 0;
     border-radius: 0;
@@ -529,12 +529,13 @@ footer .footer-below {
 
 .portfolio-modal .close-modal {
     position: absolute;
-    top: 25px;
-    right: 25px;
+    top: 15px;
+    right: 5px;
     width: 75px;
     height: 75px;
     background-color: transparent;
     cursor: pointer;
+    z-index: 9999;
 }
 
 .portfolio-modal .close-modal:hover {
@@ -560,4 +561,10 @@ footer .footer-below {
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
+}
+
+@media(min-width:1024px) {
+    .portfolio-modal .modal-content p {
+        text-align: left;
+    }
 }

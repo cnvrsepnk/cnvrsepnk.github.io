@@ -9,6 +9,6 @@ project-date: December 2014
 client: Emerald
 client-url: http://emeraldrenews.com
 category: Web Development
-description: <p>Kitty ipsum dolor sit amet, lay down in your way bat judging you knock over the lamp stretching, fluffy fur knock over the lamp biting I don't like that food claw. Kittens toss the mousie give me fish run sleep in the sink, sleep on your keyboard bat kittens eat the grass hairball scratched.</p><p>Hairball fluffy fur I don't like that food scratched run eat, scratched jump on the table puking knock over the lamp. Climb the curtains shed everywhere claw climb the curtains sleep in the sink hiss, puking hairball jump on the table chase the red dot.</p>
+description: The design elements of this site posed an interesting challenge because of all the angles involved. I used a combination of CSS & jQuery to append/prepend many triangular graphics to the main navigation and elsewhere in the site. Other features include a custom location map with tooltips, custom interactive infographics and modal contact form. Created custom home-page animated counters using a combination of an existing plugin and calculating the rate at which each resource increased by one unit from the projected annual totals.
 
 ---
