@@ -516,7 +516,7 @@ footer .footer-below {
     border: 2px solid #eaeaea;
 }
 /*.portfolio-modal .modal-content img:hover {
-    
+
 }*/
 
 .portfolio-modal .modal-content .item-details {
@@ -557,6 +557,16 @@ footer .footer-below {
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
+}
+
+.modal-body {
+    padding: 5px;
+}
+
+@media(min-width:768px) {
+    .modal-body {
+        padding: 20px;
+    }
 }
 
 @media(min-width:1024px) {

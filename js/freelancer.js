@@ -49,7 +49,22 @@ $(function() {
         //     about_col_2.addClass('wow fadeInUp');
         // }
 
-        //$("span.name").sparkle();
+        $(".intro-text").sparkle({
+            //options
+        });
+        $(".intro-text")
+            .off("mouseover.sparkle")
+            .off("mouseout.sparkle")
+            .off("focus.sparkle")
+            .off("blur.sparkle");
+        $(".intro-text").trigger("start.sparkle");
+        var timer;
+        $(window).on("resize", function(){
+            clearTimeout(timer);
+            timer = setTimeout(function(){
+                $(".intro-text").trigger("resize.sparkle");
+            },200);
+        });
     });
     
 });
