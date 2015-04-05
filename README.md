@@ -1,4 +1,4 @@
 Personal Portfolio Site
 =========================
 
-Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/templates/freelancer/).
+Jekyll theme based on the Freelancer bootstrap theme.
